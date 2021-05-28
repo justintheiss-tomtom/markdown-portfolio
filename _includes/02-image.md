@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Jay Howell Pic](https://www.we-heart.com/upload-images/enthusiasticperson2.jpg)
